@@ -1,10 +1,12 @@
 Ingredients
 
-pizza dough (see dough recipe)
+pizza dough
 pizza sauce
 cheese
 green peppers
 
 Directions
+ 
+1. roll dough
+2. prep toppings
 
-toss pizza dough
